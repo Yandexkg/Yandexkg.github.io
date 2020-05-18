@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Yandexkg.github.io</id>
-    <title>O_O</title>
-    <updated>2020-05-17T12:04:56.577Z</updated>
+    <title>1il</title>
+    <updated>2020-05-18T04:30:53.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Yandexkg.github.io"/>
     <link rel="self" href="https://Yandexkg.github.io/atom.xml"/>
-    <subtitle>Various tool tutorials and some sharing, welcome to come often</subtitle>
     <logo>https://Yandexkg.github.io/images/avatar.png</logo>
     <icon>https://Yandexkg.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, O_O</rights>
+    <rights>All rights reserved 2020, 1il</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Yandexkg.github.io/post/hello-gridea/</id>
