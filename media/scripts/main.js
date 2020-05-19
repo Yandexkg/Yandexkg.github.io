@@ -189,7 +189,7 @@ jQuery(window).scroll(function() {
 			backToTop.addClass('u-hide');
 	}
 })
-console.log('QQ:4398929');
+console.log('1il website.');
 	
 var backToTop = function() {
 		jQuery("html,body").animate({
